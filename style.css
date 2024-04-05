@@ -1,0 +1,68 @@
+/* I'm not sure what the width/height should be and if i called the query correctly */
+
+@media only screen and (max-width: 1600px) {
+    /* for mobile: */
+    .container {width: 800px;}
+}
+
+.container{
+   text-align: center;
+    width: 1440px;
+    height: 1800px;
+}
+
+.img-1{
+    width: 200px;
+    height: 200px;
+    border-radius: 2px;
+    border: 1px solid;
+    border-color: none;
+    box-shadow: 2px white;
+}
+
+.navbar{
+    margin-left: 35%;
+}
+
+
+.nav-list{
+    display: flex;
+    list-style: none;
+}
+
+.li-1{
+    margin-right: 40px;
+}
+
+.li-2{
+    margin-right: 40px;
+}
+
+.li-3{
+    margin-right: 40px;
+}
+
+.img-2{
+    width: 80%;
+    height: 400px;
+}
+
+.about-content{
+    margin-left: 30px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+
+.img-3{
+    width: 80%;
+    height: 250px;
+}
+
+p{
+    color: blue;
+}
+
+h1, h2, h3{
+    font-weight: bold;
+}
