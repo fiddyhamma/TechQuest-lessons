@@ -1,0 +1,15 @@
+.navigate{
+    float: left;
+}
+
+.side{
+    float: right;
+}
+.article-1{
+    position: relative;
+    margin-top: 200px;
+}
+.bottom{
+    background-color: lightgray;
+    padding: 10px;
+}

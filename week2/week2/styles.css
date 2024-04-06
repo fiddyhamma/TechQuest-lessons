@@ -1,0 +1,19 @@
+.header-1{
+    margin: 20px 0 10px 0;
+}
+.navigate{
+    width: 20vw;
+    padding: 10px;
+}
+.article-1{
+    width: 70vw;
+    padding: 0 10px 10px 0;
+}
+.side{
+    width: 25vw;
+    padding: 10px;
+    border: 1px solid black;
+}
+.bottom{
+    margin: 10px 0 20px 0;
+}
