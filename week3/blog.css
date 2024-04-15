@@ -1,0 +1,19 @@
+@media only screen and (max-width: 600px) {
+    /* for mobile */
+}
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+header li{
+list-style: none;
+display: inline-block;
+margin: 40px;
+padding: 0 20px;
+box-shadow: 0 1px 8px #ddd;
+}
+main{
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
